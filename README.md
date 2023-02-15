@@ -1,0 +1,2 @@
+# gitProbaAimarMuruaOlalde
+Git ikasteko errepositorioa
